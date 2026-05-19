@@ -1,16 +1,17 @@
-## Hi there 👋
+# Yo! 🎤
 
-<!--
-**real-wideFalcon432/real-wideFalcon432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **real-wideFalcon432**, a javascript writer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on personal side projects
+- 🎨 Code is poetry
+- 💬 Ask me anything about code
+
+## Tech
+
+`Remix` `Emacs` `Neovim` `Elixir` `Dart` `C#`
+
+---
+
+_Vscode addict._
